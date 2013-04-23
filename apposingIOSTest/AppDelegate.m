@@ -15,6 +15,7 @@
     // Override point for customization after application launch.
     return YES;
     //andy change
+    //andy change 2
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application
